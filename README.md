@@ -1,2 +1,5 @@
 # Cria-Novo
-Primeiro repositorio versionado curso git e git hub
+Primeiro repositorio curso git e git hub
+Agradecendo o Professor Gustavo Guanabara 
+Aprendendo a criar 
+Repositorio em Construção
